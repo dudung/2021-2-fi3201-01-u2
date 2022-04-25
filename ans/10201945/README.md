@@ -1,5 +1,5 @@
 # que
-questions to be answered
+questions to be answered by [Your Full Name](https://github.com/username)
 
 ## progress
 No | Question | Answer
