@@ -1,8 +1,13 @@
 # student.py
-# id, name, GitHub user
+# Store students data (id, name, github)
+# Sparisoma Viridi | https://github.com/dudung
+# 20220425 Create this module.
 
 
+# define dictionary for students data
 Students = {
+  10200999: { 'name': "Bot Koum", 'github': 'botkoum' },
+  10201945: { 'name': "Fees Kuom", 'github': 'feeskoum' }, 
   10215075: { 'name': "Ahmad Nawwaaf", 'github': 'anawwaaf' },
   10218009: { 'name': "Akram Akbar Amin", 'github': 'AkramAkbarAmin' },
   10218010: { 'name': "Dhika Arya R.B.", 'github': 'realdhikaarya' },
@@ -21,11 +26,11 @@ Students = {
   10219033: { 'name': "Aniesah Akhyar", 'github': 'Aniesah' },
   10219034: { 'name': "Clarisa Andrienny Natasya", 'github': 'Clarisa00' },
   10219035: { 'name': "Dinda Fahrila Suci Ramadhani", 'github': 'dindafahrila' },
-  10219036: { 'name': "Jeremy David Dipahotma", 'github': '' },
+  10219036: { 'name': "Jeremy David Dipahotma", 'github': 'jeredav24' },
   10219039: { 'name': "Elen Mengtan Kwandou", 'github': 'elenkwan' },
   10219040: { 'name': "Ridwan Muhammad Syahrul", 'github': 'RidwanMSyahrul' },
   10219043: { 'name': "Alya Ismia Rusdiana", 'github': 'alyarusdiana10' },
-  10219044: { 'name': "Tommy Arisandiko", 'github': '' },
+  10219044: { 'name': "Tommy Arisandiko", 'github': 'blitzMaestro' },
   10219048: { 'name': "Said Husain", 'github': '' },
   10219051: { 'name': "Clarissa Ivana Yuwono", 'github': 'clarissaivana' },
   10219052: { 'name': "Tiara Novis Saputri", 'github': 'tiaranovis' },
@@ -38,7 +43,7 @@ Students = {
   10219082: { 'name': "Rahmalia Nur Azizah", 'github': 'RahmaliaNur' },
   10219084: { 'name': "Avima Haamesha", 'github': 'mahaamesha' },
   10219085: { 'name': "Meyke Putri Dalla", 'github': 'Meykeputri' },
-  10219086: { 'name': "Rossa Bella Adhina", 'github': '' },
+  10219086: { 'name': "Rossa Bella Adhina", 'github': 'belladhinars' },
   10219088: { 'name': "Dimas Fasdhia Daniswara", 'github': 'dimasdaniswara' },
   10219091: { 'name': "Qoid Abrori Syakuro", 'github': 'Abrorisya' },
   10219093: { 'name': "Dian Retno Anggraini Ekawati", 'github': 'dianrae' },
@@ -51,3 +56,18 @@ Students = {
 }
 
 
+# import sleep function
+from time import sleep
+
+
+# check whether a student id valid
+def check(anim):
+  print("Check students ", end='')
+  valid = False
+  for nim in Students:
+    sleep(0.1)
+    print('-', end='')
+    if nim == anim:
+      valid = True
+  print(' ok')
+  return valid
