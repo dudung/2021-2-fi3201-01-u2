@@ -5,7 +5,7 @@ examination u2 for class 01 of lecture fi3201 computational physics on semester 
 ## questions
 [10200000](que/10200000) :x:
 
-Copy all files from above folder to your folder, one of the below folders.
+Copy all files from previous folder to your folder, one of the following folders.
 
 ## answers
 [10200999](ans/10200999) :x: |
