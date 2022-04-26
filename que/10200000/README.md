@@ -9,6 +9,7 @@ No | Question | Answer
 2 | [triangle_text_art](triangle_text_art.ipynb) | :x:
 3 | [draw_shapes](draw_shapes.ipynb) | :x:
 4 | [draw_flowchart](draw_flowchart.ipynb) | :x:
+5 | [list_min_max_avg](list_min_max_avg.ipynb) | :x:
 
 ## instruction
 1. Edit `Your Full Name` with your full name and related link to your GitHub username `https://github.com/username`.
