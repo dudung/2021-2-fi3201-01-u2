@@ -31,7 +31,7 @@ Students = {
   10219040: { 'name': "Ridwan Muhammad Syahrul", 'github': 'RidwanMSyahrul' },
   10219043: { 'name': "Alya Ismia Rusdiana", 'github': 'alyarusdiana10' },
   10219044: { 'name': "Tommy Arisandiko", 'github': 'blitzMaestro' },
-  10219048: { 'name': "Said Husain", 'github': '' },
+  10219048: { 'name': "Said Husain", 'github': 'Supermieisidua' },
   10219051: { 'name': "Clarissa Ivana Yuwono", 'github': 'clarissaivana' },
   10219052: { 'name': "Tiara Novis Saputri", 'github': 'tiaranovis' },
   10219058: { 'name': "Isep Robi Awaludin", 'github': 'iseprobi' },
