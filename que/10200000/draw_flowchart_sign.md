@@ -20,3 +20,5 @@ flowchart TD
   S3 --> O;
   O --> E;
 ```
+
+Untuk menjalankannya secara lokal dengan Jupyter Notebook dapat menggunakan berkas [draw_flowchart.ipynb](draw_flowchart.ipynb).
