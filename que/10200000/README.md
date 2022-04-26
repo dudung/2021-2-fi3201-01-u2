@@ -12,6 +12,7 @@ No | Question | Answer
 5 | [list_min_max_avg](list_min_max_avg.ipynb) | :x:
 6 | [draw_polygon](draw_polygon.ipynb) | :x:
 7 | [draw_math_function](draw_math_function.ipynb) | :x:
+8 | [root_finding_graphical_method](root_finding_graphical_method.ipynb) | :x:
 
 ## instruction
 1. Edit `Your Full Name` with your full name and related link to your GitHub username `https://github.com/username`.
