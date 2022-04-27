@@ -10,7 +10,7 @@ No | Question | Answer
 3 | [draw_shapes](draw_shapes.ipynb) | :heavy_check_mark:
 4 | [draw_flowchart](draw_flowchart.ipynb) | :heavy_check_mark:
 5 | [list_min_max_avg](list_min_max_avg.ipynb) | :heavy_check_mark:
-6 | [draw_polygon](draw_polygon.ipynb) | :x:
+6 | [draw_polygon](draw_polygon.ipynb) | :heavy_check_mark:
 7 | [draw_math_function](draw_math_function.ipynb) | :x:
 8 | [root_finding_graphical_method](root_finding_graphical_method.ipynb) | :x:
 9 | [root_finding_scan_range_method](root_finding_scan_range_method.ipynb) | :x:
