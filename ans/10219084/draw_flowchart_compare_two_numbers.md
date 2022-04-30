@@ -1,7 +1,7 @@
 ![](draw_flowchart_compare_two_numbers.png)
 
 ```mermaid
-%%mermaid_magic -h 160
+%%mermaid_magic -h 720
 
 flowchart TD
     B([ Mulai ]);
