@@ -5,7 +5,7 @@ questions to be answered by [Meyke Putri Dalla](https://github.com/Meykeputri)
 ## progress
 No | Question | Answer
 :-: | :- | :-:
-1 | [hello_student](hello_student.ipynb) | :.
+1 | [hello_student](hello_student.ipynb) | :heavy_check_mark
 2 | [triangle_text_art](triangle_text_art.ipynb) | :x:
 3 | [draw_shapes](draw_shapes.ipynb) | :x:
 4 | [draw_flowchart](draw_flowchart.ipynb) | :x:
