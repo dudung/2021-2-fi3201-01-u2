@@ -9,7 +9,7 @@ flowchart TD
   B --> E;
 ```
 Flowchart setelah dilakukan koreksi kode: 
-
+```mermaid
 %%mermaid_magic -h 720
 
 flowchart TD
@@ -32,5 +32,5 @@ flowchart TD
     S2 --> O;
     S3 --> O;
     O --> E;
-    ```
+  
     
