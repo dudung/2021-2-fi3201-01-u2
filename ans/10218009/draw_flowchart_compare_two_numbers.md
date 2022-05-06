@@ -7,7 +7,7 @@ flowchart TD
   B([ Mulai ]);
   E([ Selesai ]);
   B --> E;
-
+```
 Flowchart setelah dilakukan koreksi kode: 
 ```mermaid
 %%mermaid_magic -h 720
