@@ -14,7 +14,7 @@ No | Question | Answer
 7 | [draw_math_function](draw_math_function.ipynb) | :heavy_check_mark:
 8 | [root_finding_graphical_method](root_finding_graphical_method.ipynb) | :heavy_check_mark:
 9 | [root_finding_scan_range_method](root_finding_scan_range_method.ipynb) | :heavy_check_mark:
-10 | [root_finding_secant_method](root_finding_secant_method.ipynb) | :x:
+10 | [root_finding_secant_method](root_finding_secant_method.ipynb) | :heavy_check_mark:
 11 | [list_sorting_bubble_sort](list_sorting_bubble_sort.ipynb) | :x:
 12 | [fork_a_repository_and_comment](fork_a_repository_and_comment.ipynb) | :x:
 
