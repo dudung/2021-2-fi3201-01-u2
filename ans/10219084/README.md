@@ -1,5 +1,5 @@
 # que
-questions to be answered by [Avima Haamesha (NIM 10219084)](https://github.com/mahaamesha)
+questions to be answered by [Avima Haamesha](https://github.com/mahaamesha)
 
 
 ## progress
