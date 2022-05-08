@@ -6,8 +6,8 @@ questions to be answered by [Clarissa Ivana Yuwono](https://github.com/clarissai
 No | Question | Answer
 :-: | :- | :-:
 1 | [hello_student](hello_student.ipynb) | :heavy_check_mark:
-2 | [triangle_text_art](triangle_text_art.ipynb) | :x:
-3 | [draw_shapes](draw_shapes.ipynb) | :x:
+2 | [triangle_text_art](triangle_text_art.ipynb) | :heavy_check_mark:
+3 | [draw_shapes](draw_shapes.ipynb) | :heavy_check_mark:
 4 | [draw_flowchart](draw_flowchart.ipynb) | :heavy_check_mark:
 5 | [list_min_max_avg](list_min_max_avg.ipynb) | :heavy_check_mark:
 6 | [draw_polygon](draw_polygon.ipynb) | :heavy_check_mark:
