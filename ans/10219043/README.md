@@ -1,5 +1,5 @@
 # que
-questions to be answered by [Your Full Name](https://github.com/alyarusdiana10)
+questions to be answered by [Alya Ismia Rusdiana](https://github.com/alyarusdiana10)
 
 
 ## progress
