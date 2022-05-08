@@ -7,7 +7,7 @@ No | Question | Answer
 :-: | :- | :-:
 1 | [hello_student](hello_student.ipynb) | :heavy_check_mark:
 2 | [triangle_text_art](triangle_text_art.ipynb) | :heavy_check_mark:
-3 | [draw_shapes](draw_shapes.ipynb) | :x:
+3 | [draw_shapes](draw_shapes.ipynb) | :heavy_check_mark:
 4 | [draw_flowchart](draw_flowchart.ipynb) | :x:
 5 | [list_min_max_avg](list_min_max_avg.ipynb) | :x:
 6 | [draw_polygon](draw_polygon.ipynb) | :x:
