@@ -9,9 +9,9 @@ No | Question | Answer
 2 | [triangle_text_art](triangle_text_art.ipynb) | :x:
 3 | [draw_shapes](draw_shapes.ipynb) | :x:
 4 | [draw_flowchart](draw_flowchart.ipynb) | :heavy_check_mark:
-5 | [list_min_max_avg](list_min_max_avg.ipynb) | :x:
+5 | [list_min_max_avg](list_min_max_avg.ipynb) | :heavy_check_mark:
 6 | [draw_polygon](draw_polygon.ipynb) | :x:
-7 | [draw_math_function](draw_math_function.ipynb) | :x:
+7 | [draw_math_function](draw_math_function.ipynb) | :heavy_check_mark:
 8 | [root_finding_graphical_method](root_finding_graphical_method.ipynb) | :x:
 9 | [root_finding_scan_range_method](root_finding_scan_range_method.ipynb) | :x:
 10 | [root_finding_secant_method](root_finding_secant_method.ipynb) | :x:
