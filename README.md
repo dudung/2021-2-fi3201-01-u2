@@ -28,7 +28,7 @@ Copy all files from previous folder to your folder, one of the following folders
 [10219033](ans/10219033) :x: |
 [10219034](ans/10219034) :x: |
 [10219035](ans/10219035) :x: |
-[10219036](ans/10219036) :x: |
+[10219036](ans/10219036) ✔️ |
 [10219039](ans/10219039) :x: |
 [10219040](ans/10219040) :x: |
 [10219043](ans/10219043) :x: |
