@@ -1,5 +1,5 @@
 # que
-questions to be answered by [Your Full Name](https://github.com/username)
+questions to be answered by Dhika Arya Ramenusa Bawotong (https://github.com/realdhikaarya)
 
 
 ## progress
