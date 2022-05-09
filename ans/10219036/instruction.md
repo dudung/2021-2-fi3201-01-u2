@@ -1,5 +1,5 @@
 # que
-questions to be answered by Jeremy David Dipahotma(https://github.com/username)
+questions to be answered by Jeremy David Dipahotma(https://github.com/jeredav24)
 
 
 ## progress
