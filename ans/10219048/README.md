@@ -1,5 +1,5 @@
 # que
-questions to be answered by [Your Full Name](https://github.com/username)
+questions to be answered by [Said Husain](https://github.com/supermieisidua)
 
 
 ## progress
@@ -19,5 +19,5 @@ No | Question | Answer
 12 | [fork_a_repository_and_comment](fork_a_repository_and_comment.ipynb) | :x:
 
 ## instruction
-1. Edit `Your Full Name` with your full name and related link to your GitHub username `https://github.com/username`.
+1. Edit `Said Husain` with your full name and related link to your GitHub username `https://github.com/supermieisidua`.
 2. After you answer a question, please update its status from :x: to :heavy_check_mark:.
