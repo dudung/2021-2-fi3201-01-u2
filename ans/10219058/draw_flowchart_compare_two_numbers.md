@@ -1,3 +1,6 @@
+#draw_flowchart_compare_two_numbers
+
+```mermaid
 %%mermaid_magic -h 160
 flowchart TD
     B([ Mulai ]);
@@ -19,4 +22,4 @@ flowchart TD
     S2 --> O;
     S3 --> O;
     O --> E;
-    
+```
