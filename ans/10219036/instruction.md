@@ -11,7 +11,7 @@ No | Question | Answer
 4 | [draw_flowchart](draw_flowchart.ipynb) | ✔️
 5 | [list_min_max_avg](list_min_max_avg.ipynb) | ✔️
 6 | [draw_polygon](draw_polygon.ipynb) | ✔️
-7 | [draw_math_function](draw_math_function.ipynb) | :x:
+7 | [draw_math_function](draw_math_function.ipynb) | ✔️
 8 | [root_finding_graphical_method](root_finding_graphical_method.ipynb) | ✔️
 9 | [root_finding_scan_range_method](root_finding_scan_range_method.ipynb) | ✔️
 10 | [root_finding_secant_method](root_finding_secant_method.ipynb) | ✔️
