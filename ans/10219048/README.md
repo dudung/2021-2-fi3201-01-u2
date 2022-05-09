@@ -19,5 +19,5 @@ No | Question | Answer
 12 | [fork_a_repository_and_comment](fork_a_repository_and_comment.ipynb) | :x:
 
 ## instruction
-1. Edit `Said Husain` with your full name and related link to your GitHub username `https://github.com/supermieisidua`.
+1. Edit `Said Husain` with your full name and related link to your GitHub username `https://github.com/Supermieisidua`.
 2. After you answer a question, please update its status from :x: to :heavy_check_mark:.
