@@ -12,11 +12,11 @@ No | Question | Answer
 5 | [list_min_max_avg](list_min_max_avg.ipynb) | :heavy_check_mark:
 6 | [draw_polygon](draw_polygon.ipynb) | :heavy_check_mark:
 7 | [draw_math_function](draw_math_function.ipynb) | :heavy_check_mark:
-8 | [root_finding_graphical_method](root_finding_graphical_method.ipynb) | :x:
+8 | [root_finding_graphical_method](root_finding_graphical_method.ipynb) | :heavy_check_mark:
 9 | [root_finding_scan_range_method](root_finding_scan_range_method.ipynb) | :x:
 10 | [root_finding_secant_method](root_finding_secant_method.ipynb) | :x:
 11 | [list_sorting_bubble_sort](list_sorting_bubble_sort.ipynb) | :x:
-12 | [fork_a_repository_and_comment](fork_a_repository_and_comment.ipynb) | :x:
+12 | [fork_a_repository_and_comment](fork_a_repository_and_comment.ipynb) | :heavy_check_mark:
 
 ## instruction
 1. Edit `Your Full Name` with your full name and related link to your GitHub username `https://github.com/username`.
