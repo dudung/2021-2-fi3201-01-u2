@@ -15,7 +15,7 @@ No | Question | Answer
 8 | [root_finding_graphical_method](root_finding_graphical_method.ipynb) | ✔️
 9 | [root_finding_scan_range_method](root_finding_scan_range_method.ipynb) | ✔️
 10 | [root_finding_secant_method](root_finding_secant_method.ipynb) | ✔️
-11 | [list_sorting_bubble_sort](list_sorting_bubble_sort.ipynb) | ✔️:
+11 | [list_sorting_bubble_sort](list_sorting_bubble_sort.ipynb) | ✔️
 12 | [fork_a_repository_and_comment](fork_a_repository_and_comment.ipynb) | ✔️
 
 ## instruction
