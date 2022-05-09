@@ -1,11 +1,11 @@
 # que
-questions to be answered by [Your Full Name](https://github.com/username)
+questions to be answered by [Isep Robi Awaludin](https://github.com/iseprobi)
 
 
 ## progress
 No | Question | Answer
 :-: | :- | :-:
-1 | [hello_student](hello_student.ipynb) | :x:
+1 | [hello_student](hello_student.ipynb) | :v:
 2 | [triangle_text_art](triangle_text_art.ipynb) | :x:
 3 | [draw_shapes](draw_shapes.ipynb) | :x:
 4 | [draw_flowchart](draw_flowchart.ipynb) | :x:
