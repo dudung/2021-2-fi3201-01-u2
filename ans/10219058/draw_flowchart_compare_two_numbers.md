@@ -1,4 +1,4 @@
-#draw_flowchart_compare_two_numbers
+# draw_flowchart_compare_two_numbers
 
 ```mermaid
 %%mermaid_magic -h 160
