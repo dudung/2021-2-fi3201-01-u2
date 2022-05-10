@@ -1,5 +1,5 @@
 # que
-questions to be answered by [Tommy Arisandiko](https://github.com/Blitzmaestro)
+questions to be answered by [Your name here](https://github.com/username)
 
 
 ## progress
