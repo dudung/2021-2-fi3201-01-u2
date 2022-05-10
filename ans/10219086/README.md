@@ -5,8 +5,8 @@ questions to be answered by [Rossa Bella Adhina](https://github.com/belladhinars
 ## progress
 No | Question | Answer
 :-: | :- | :-:
-1 | [hello_student](hello_student.ipynb) | ✔️:
-2 | [triangle_text_art](triangle_text_art.ipynb) | ✔️:
+1 | [hello_student](hello_student.ipynb) | ✔️
+2 | [triangle_text_art](triangle_text_art.ipynb) | ✔️
 3 | [draw_shapes](draw_shapes.ipynb) | :heavy_check_mark:
 4 | [draw_flowchart](draw_flowchart.ipynb) | :heavy_check_mark:
 5 | [list_min_max_avg](list_min_max_avg.ipynb) | :heavy_check_mark:
