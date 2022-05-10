@@ -1,5 +1,5 @@
 # que
-questions to be answered by [Your Full Name](https://github.com/username)
+questions to be answered by [Elen Mengtan Kwandou](https://github.com/elenkwan)
 
 
 ## progress
