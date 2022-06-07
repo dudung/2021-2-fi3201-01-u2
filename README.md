@@ -42,7 +42,7 @@ Copy all files from previous folder to your folder, one of the following folders
 [10219070](ans/10219070) :heavy_check_mark: |
 [10219074](ans/10219074) :heavy_check_mark: |
 [10219079](ans/10219079) :heavy_check_mark: |
-[10219082](ans/10219082) ❓ |
+[10219082](ans/10219082) ❔ |
 [10219084](ans/10219084) :heavy_check_mark: |
 [10219085](ans/10219085) :heavy_check_mark: |
 [10219086](ans/10219086) :heavy_check_mark: |
