@@ -49,8 +49,8 @@ Copy all files from previous folder to your folder, one of the following folders
 [10219088](ans/10219088) :x: |
 [10219091](ans/10219091) :x: |
 [10219093](ans/10219093) :x: |
-[10219095](ans/10219095) :x: |
-[10219098](ans/10219098) :x: |
+[10219095](ans/10219095) :heavy_check_mark: |
+[10219098](ans/10219098) :heavy_check_mark: |
 [10219099](ans/10219099) :heavy_check_mark: |
 [10219100](ans/10219100) :heavy_check_mark: |
 [10219101](ans/10219101) :heavy_check_mark: |
