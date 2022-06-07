@@ -10,11 +10,11 @@ Copy all files from previous folder to your folder, one of the following folders
 ## answers
 [10200999](ans/10200999) :x: |
 [10201945](ans/10201945) :x: |
-[10215075](ans/10215075) :x: |
-[10218009](ans/10218009) :x: |
-[10218010](ans/10218010) :x: |
+[10215075](ans/10215075) :heavy_check_mark: |
+[10218009](ans/10218009) :heavy_check_mark: |
+[10218010](ans/10218010) :heavy_check_mark: |
 [10218023](ans/10218023) :x: |
-[10218062](ans/10218062) :x: |
+[10218062](ans/10218062) :heavy_check_mark: |
 [10218100](ans/10218100) :heavy_check_mark: |
 [10219001](ans/10219001) :heavy_check_mark: |
 [10219012](ans/10219012) :heavy_check_mark: |
